@@ -1,1 +1,1 @@
-A basic web order
+A basic web restaurant to learn and exercise React and JavaScript scripts.
